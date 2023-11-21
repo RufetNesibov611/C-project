@@ -1,0 +1,4 @@
+C:\Users\hp\source\repos\ConsoleApp10\Repostories\obj\Debug\net6.0\Repostories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsoleApp10\Repostories\obj\Debug\net6.0\Repostories.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsoleApp10\Repostories\obj\Debug\net6.0\Repostories.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsoleApp10\Repostories\obj\Debug\net6.0\Repostories.csproj.CoreCompileInputs.cache
